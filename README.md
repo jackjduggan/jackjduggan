@@ -32,4 +32,8 @@ Or you can contact me via email..
 <a href = "mailto: 20094010@mail.wit.ie">College - 20094010@mail.wit.ie</a>
 
 <br><br>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jackjduggan&show_icons=true&locale=en&layout=compact" alt="jackjduggan" /></p>
+
+<br><br>
 <img src="https://komarev.com/ghpvc/?username=jackjduggan&color=blueviolet" align="left">
