@@ -12,16 +12,20 @@ You can click the Preview link to take a look at your changes.
 - 💡 In 2023, I interned with Unum Ireland as an 'Infrastructure Engineer', specializing in Linux
 - 💼 During my placement, I worked with the following:
 <a href="https://www.linux.org/">
-  <img align="left" alt="Linux Logo" width="64px" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img align="left" alt="Linux Logo" height="24px" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </a>
 <a href="https://fedoraproject.org/">
-  <img align="left" alt="Fedora Logo" width="64px" src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" />
+  <img align="left" alt="Fedora Logo" height="24px" src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" />
 </a>
 <a href="https://www.centos.org/">
-  <img align="left" alt="CentOS Logo" width="64px" src="https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white" />
+  <img align="left" alt="CentOS Logo" height="24px" src="https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white" />
 </a>
 <a href="https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux">
-  <img align="left" alt="RHEL Logo" width="64px" src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white" />
+  <img align="left" alt="RHEL Logo" height="24px" src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white" />
+</a>
+<br><br>
+<a href="https://www.redhat.com/en/technologies/management/ansible">
+  <img align="left" alt="Ansible Logo" height="24px" src="https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white" />
 </a>
 
 <br><br>
