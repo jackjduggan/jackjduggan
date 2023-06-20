@@ -23,9 +23,23 @@ You can click the Preview link to take a look at your changes.
 <a href="https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux">
   <img align="left" alt="RHEL Logo" height="24px" src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white" />
 </a>
-<br><br>
+
 <a href="https://www.redhat.com/en/technologies/management/ansible">
   <img align="left" alt="Ansible Logo" height="24px" src="https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white" />
+</a>
+<a href="https://www.puppet.com/">
+  <img align="left" alt="Puppet Logo" height="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Puppet_Logo.svg/800px-Puppet_Logo.svg.png?20210414164342" />
+</a>
+
+<br><br>
+<a href="https://azure.microsoft.com/en-us/products/devops">
+  <img align="left" alt="Azure DevOps Logo" height="24px" src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" />
+</a>
+<a href="https://www.tableau.com/">
+  <img align="left" alt="Tableau Logo" height="24px" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
+</a>
+<a href="https://www.figma.com/">
+  <img align="left" alt="Figma Logo" height="24px" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </a>
 
 <br><br>
