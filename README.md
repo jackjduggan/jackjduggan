@@ -123,5 +123,7 @@ Or you can contact me via email..
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jackjduggan&show_icons=true&locale=en&layout=compact" alt="jackjduggan" /></p>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=jackjduggan)](https://git.io/streak-stats)
+
 <br><br>
 <img src="https://komarev.com/ghpvc/?username=jackjduggan&color=blueviolet" align="left">
