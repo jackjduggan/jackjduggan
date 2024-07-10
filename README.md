@@ -4,10 +4,58 @@ jackjduggan/jackjduggan is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-<h3> Hey 👋, I'm @jackjduggan!</h3>
+<h1 align="center">👋 Hey! I'm Jack Duggan</h1>
 
-- 🌱 I’m currently studying Applied Computing in SETU Waterford, specializing in Cloud & Networks
-- 📚 Throughout my studies, I've become familiar with the following:
+<p align="center">
+I'm a recent graduate of the <strong>Applied Computing</strong> degree course at <strong>SETU Waterford</strong>, Ireland. I specialized in '<strong>Cloud & Networks</strong>', and achieved a <strong>First Class Honours</strong> / <strong>1:1</strong>
+</p>
+
+<p align="center">
+I'm currently looking for an opportunity to kickstart my career. If you're interested in reaching out, please connect with me via LinkedIn or send me an email! 
+</p>
+
+<div align="center">
+  
+[![Linkedin Badge](https://img.shields.io/badge/-jackduggan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jackduggan/)](https://www.linkedin.com/in/jackduggan/)
+[![Gmail Badge](https://img.shields.io/badge/-jackjduggan01@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jackjduggan01@gmail.com)](mailto:jackjduggan01@gmail.com)
+
+</div>
+
+```python
+class Jack(Person):
+    def __init__(self):
+        self.name = 'Jack Duggan'
+        self.age = 21
+        self.previous_work = { 'Unum': 'Linux Infrastructure Engineer Intern' }
+        self.education = { 'South East Technological University': 'Applied Computing (Cloud & Networks)'}
+        self.hobbies = ['Football/Soccer', 'Running', 'Gaming']
+
+    def current_location(self):
+        return 'Wexford, Ireland'
+
+    def currently(self):
+        return {
+            'studying': ['Python', 'DevOps'],
+            'reading': ['Atomic Habits'],
+        }
+```
+
+<div align="center">
+  <h3 align="center">Tools & Technologies I'm Familiar With</h3>
+
+  <div align="center">
+    <p>Operating Systems</p>
+    
+[![Linux Badge](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)]()
+[![Ubuntu Badge](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)]()
+[![Raspbian Badge](https://img.shields.io/badge/-Raspbian-A22846?style=flat-square&logo=raspberrypi&logoColor=white)]()
+[![Kali Badge](https://img.shields.io/badge/-Kali-557C94?style=flat-square&logo=kalilinux&logoColor=white)]()
+
+  </div>
+</div>
+
+
+<h1>Rest of README WIP...</h1>
 <a href="https://www.linux.org/">
   <img align="left" alt="Linux Logo" height="24px" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </a>
@@ -121,9 +169,10 @@ Or you can contact me via email..
 
 <br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jackjduggan&show_icons=true&locale=en&layout=compact" alt="jackjduggan" /></p>
+### Quick stats about me
+| Github Stats | Top Languages |
+| --- | --- |
+|![Jack's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jackjduggan&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) | ![Jack's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jackjduggan&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=jackjduggan)](https://git.io/streak-stats)
-
-<br><br>
+<br>
 <img src="https://komarev.com/ghpvc/?username=jackjduggan&color=blueviolet" align="left">
