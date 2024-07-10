@@ -25,7 +25,7 @@ I'm currently looking for an opportunity to kickstart my career. If you're inter
 class Jack(Person):
     def __init__(self):
         self.name = 'Jack Duggan'
-        self.age = 21
+        self.age = 23
         self.previous_work = { 'Unum': 'Linux Infrastructure Engineer Intern' }
         self.education = { 'South East Technological University': 'Applied Computing (Cloud & Networks)'}
         self.hobbies = ['Football/Soccer', 'Running', 'Gaming']
