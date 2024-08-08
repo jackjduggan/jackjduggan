@@ -36,8 +36,8 @@ class Jack(Person):
 
     def currently(self):
         return {
-            'studying': ['Python', 'DevOps', 'Infrastructure as Code'],
-            'reading': ['Atomic Habits'],
+            'studying': ['Python', 'Golang', 'Infrastructure as Code'],
+            'reading': ['Atomic Habits', 'A Game of Thrones'],
             'watching': ['The Bear'],
         }
 ```
