@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">👋 Hey! I'm Jack Duggan</h1>
 
 <p align="center">
-I'm a recent graduate of the <strong>Applied Computing</strong> degree course at <strong>SETU Waterford</strong>, Ireland. I specialized in '<strong>Cloud & Networks</strong>', and achieved a <strong>First Class Honours</strong> / <strong>1:1</strong>
+I'm a recent graduate of the <strong>Applied Computing</strong> degree course at <strong>SETU Waterford</strong>, Ireland. I specialized in '<strong>Cloud & Networks</strong>', and achieved a <strong>First Class Honours</strong> / <strong>1:1</strong><br>
 I'm currently working as an <strong>Engineer Trainee</strong> at <strong>Sun Life</strong>, Waterford!
 </p>
 
@@ -31,7 +31,7 @@ class Jack(Person):
         self.current_work = { 'Sun Life': 'Engineer Trainee' }
         self.previous_work = { 'Unum': 'Linux Infrastructure Engineer Intern' }
         self.education = { 'South East Technological University': 'Applied Computing (Cloud & Networks)'}
-        self.hobbies = ['Football/Soccer', 'Running', 'Gaming']
+        self.hobbies = ['Football/Soccer', 'Running', 'Gaming', 'Golf']
 
     def current_location(self):
         return 'Wexford, Ireland'
