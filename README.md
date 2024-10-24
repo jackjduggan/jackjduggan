@@ -8,10 +8,11 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center">
 I'm a recent graduate of the <strong>Applied Computing</strong> degree course at <strong>SETU Waterford</strong>, Ireland. I specialized in '<strong>Cloud & Networks</strong>', and achieved a <strong>First Class Honours</strong> / <strong>1:1</strong>
+I'm currently working as an <strong>Engineer Trainee</strong> at <strong>Sun Life</strong>, Waterford!
 </p>
 
 <p align="center">
-I'm currently looking for an opportunity to kickstart my career. If you're interested in reaching out, please connect with me via LinkedIn or send me an email! 
+If you're interested in reaching out, please connect with me via LinkedIn or send me an email! 
 </p>
 
 <div align="center">
@@ -27,6 +28,7 @@ class Jack(Person):
     def __init__(self):
         self.name = 'Jack Duggan'
         self.age = 23
+        self.current_work = { 'Sun Life': 'Engineer Trainee' }
         self.previous_work = { 'Unum': 'Linux Infrastructure Engineer Intern' }
         self.education = { 'South East Technological University': 'Applied Computing (Cloud & Networks)'}
         self.hobbies = ['Football/Soccer', 'Running', 'Gaming']
@@ -36,9 +38,9 @@ class Jack(Person):
 
     def currently(self):
         return {
-            'studying': ['Python', 'Golang', 'Infrastructure as Code'],
+            'studying': ['React', 'Java', 'Golang', 'Infrastructure as Code'],
             'reading': ['Shoe Dog', 'Atomic Habits', 'A Game of Thrones'],
-            'watching': ['The Bear', 'Prison Break'],
+            'watching': ['The Bear', 'The Office'],
         }
 ```
 
