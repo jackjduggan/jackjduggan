@@ -7,8 +7,7 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">👋 Hey! I'm Jack Duggan</h1>
 
 <p align="center">
-<strong>Engineer</strong> at <strong>Sun Life</strong>, Waterford
-Graduate of the <strong>Applied Computing</strong> degree course at <strong>SETU Waterford</strong>
+<strong>Engineer</strong> at <strong>Sun Life</strong>, Waterford. Graduate of the <strong>Applied Computing</strong> degree course at <strong>SETU Waterford</strong>
 </p>
 
 <p align="center">
